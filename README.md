@@ -1,10 +1,5 @@
 # Final Project
 
-## Team Rule
-- 커밋메세지 잘남기기 [URL](https://projectlog.tistory.com/57)
-- 작업 시작 전/후 작업내용 공유하기
-- 작업 끝난 파일은 주석 및 작업내용 정리 후 올리기
-
 ## 해결과제
 -모델 통합 (사이트: 부위별로 선택 예측) --완료
 
